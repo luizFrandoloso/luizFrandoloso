@@ -9,11 +9,10 @@
 
 ##
 
-<div  align="center" >
+
   - 🔭 Atualmente Trabalhando na empresa <b>SINAPSYS Consultoria e Desenvolvimento de Software Ltda</b> como desenvolvedur <b>Full Stack</b>
-  <br>
-- 🌱 Trabalhando com VisuaBasic, MySQL, C#, Flutter ...
-</div>
+  - 🌱 Trabalhando com VisuaBasic, MySQL, C#, Flutter ...
+
 
 ##
 
