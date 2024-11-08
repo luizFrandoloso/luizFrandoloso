@@ -19,7 +19,7 @@
 </div>
 <br/>
 
-Atualmente Trabalhando na empresa <b>SINAPSYS Consultoria e Desenvolvimento de Software Ltda</b> como desenvolvedur <b>Full Stack</b>
+Atualmente Trabalhando na empresa <b>SINAPSYS Consultoria e Desenvolvimento de Software Ltda</b> como desenvolvedor <b>Full Stack</b>
 
 ## Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiz_frandoloso)
