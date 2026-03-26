@@ -10,8 +10,8 @@
 ##
 
 
-  - 🔭 Atualmente Trabalhando na empresa <b>SINAPSYS Consultoria e Desenvolvimento de Software Ltda</b> como desenvolvedur <b>Full Stack</b>
-  - 🌱 Trabalhando com VisuaBasic, MySQL, C#, Flutter ...
+  - 🔭 Atualmente Trabalhando na empresa <b>Elevor Softwares</b> como desenvolvedur <b>Full Stack</b>
+  - 🌱 Trabalhando com VisuaBasic, MySQL, C# ...
 
 
 ##
